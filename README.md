@@ -1,4 +1,5 @@
 # Walmart-sales-Analysis-SQL
+[Walmart logo]{}
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized.
 
 ## Purposes Of The Project
@@ -23,6 +24,6 @@ This is the first step where inspection of data is done to make sure NULL values
 #### Feature Engineering:
 This will help use generate some new columns from existing ones.
 1. Add a new column named `time_of_day` to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
-1. Add a new column named day_name that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day each branch is busiest.
-1. Add a new column named month_name that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
+1. Add a new column named `day_name` that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day each branch is busiest.
+1. Add a new column named `month_name` that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the listed questions and aims of this project.
