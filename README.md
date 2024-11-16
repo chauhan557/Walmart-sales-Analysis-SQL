@@ -1,5 +1,5 @@
 # Walmart-sales-Analysis-SQL
-[Walmart logo]{}
+[Walmart logo]{https://github.com/chauhan557/Walmart-sales-Analysis-SQL/blob/main/walmart%20logo.webp}
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized.
 
 ## Purposes Of The Project
