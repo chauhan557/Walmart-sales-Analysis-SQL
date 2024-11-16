@@ -66,3 +66,4 @@ Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the
 10. Which day of the week has the best average ratings per branch?
 
 ## Code
+For code and another added business questions check (https://github.com/chauhan557/Walmart-sales-Analysis-SQL/blob/main/Walmartsales%20SQL.sql)
